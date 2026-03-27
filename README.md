@@ -31,3 +31,5 @@ In an internship or corporate setting, this File Handling Utility acts as a foun
 Logging Systems: Automatically recording error messages or user activity for later debugging.
 Configuration Storage: Saving user preferences (like "Dark Mode" or "Language") so they persist even after the program is closed.
 Data Exporting: Transforming internal application data into a simple .txt report that can be shared with others.
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7a24fbe0-20cc-4a9d-983c-6cc938b9283d" />
